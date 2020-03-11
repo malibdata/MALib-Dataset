@@ -15,12 +15,14 @@ Similar to classical recommendation databases, MALib contains three tables/files
 |Column 1|Column 2
 |---|---|
 |Library Id|Library Name|
+
 In this file, we provide the exact name of each third-party library. Those names are gathered from [Maven](https://mvnrepository.com/)  and Github.
 
 ### app_info.csv
 |Column 1|Column 2
 |---|---|
 |App Id|App Name|
+
 In this file, we provide the exact name of each app as well as its version. This information is gathered from the meta file of their .apk files.
 
 ### relation.csv
