@@ -12,5 +12,5 @@ Please feel free to use this dataset in your research, and it would be appreciat
 
 ## Dataset Analysis
 
-
+![Usage Distribution](https://github.com/malibdata/MALib-Dataset/blob/master/Analysis01.png)
 
