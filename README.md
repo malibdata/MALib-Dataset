@@ -21,7 +21,7 @@ In this file, we provide the exact name of each third-party library. Those names
 |Column 1|Column 2
 |---|---|
 |App Id|App Name|
-In this file, we provide the exact name of each app as well as its version. This information is gathered from Google Play and [AndroZoo](https://androzoo.uni.lu)
+In this file, we provide the exact name of each app as well as its version. This information is gathered from the meta file of their .apk files.
 
 ### relation.csv
 |Column 1|Column 2
