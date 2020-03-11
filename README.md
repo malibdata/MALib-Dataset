@@ -8,9 +8,8 @@ It can be used for investigating the potential relationship between the existing
 
 Please feel free to use this dataset in your research, and it would be appreciated if you could cite the following paper.
 
-```
-Diversified Third-Party Library Prediction for Mobile App Development. Q. He, B. Li, F. Chen, J. Grundy, X. Xia and Y. Yang. IEEE Transactions on Software Engineering (2020).
-```
+>Diversified Third-Party Library Prediction for Mobile App Development. Q. He, B. Li, F. Chen, J. Grundy, X. Xia and Y. Yang. IEEE Transactions on Software Engineering (2020).
+
 
 ## Dataset Overview
 Similar to classical recommendation databases, MALib contains three tables/files, namely apk_info.csv, lib_info.csv, and relation.csv respectively.
